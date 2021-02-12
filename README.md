@@ -5,7 +5,7 @@
 - Muita coisa ainda não sei fazer, mas, se você me orientar, eu aprendo e me esforço pra fazer bem feito". 
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://www.linkedin.com/in/edson-oliver"><img src="" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/edson-oliver) 
+ [LinkedIn](https://www.linkedin.com/in/edson-oliver) 
 
 
 

@@ -2,6 +2,7 @@
 ### Sou estudante de Analise de Sistemas e Desenvolvedor Full Stack e tenho muito interesse por desenvolvimento e programação.
 - Vivência com HTML, CSS, Java Script, React, MySql e PHP, estudando fullstack pela Recode Pro.
 - Sou uma pessoa com facilidade de aprendizado, pontual, dedicado e sempre em busca de novos conhecimentos.
+- Muita coisa ainda não sei fazer, mas, se você me orientar, eu aprendo e me esforço pra fazer bem feito". 
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://www.linkedin.com/in/edson-oliver"><img src="" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/edson-oliver) 
